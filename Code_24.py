@@ -3,7 +3,7 @@
 # Email : r.chaudhary@outlook.in
 
 # Code : 24
-# Python Program to demonstrate Object Oriented Programming.
+# Python Program to demonstrate OOPs Example.
 
 class Number:
     MULTIPLIER = 35

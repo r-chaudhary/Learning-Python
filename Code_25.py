@@ -2,10 +2,6 @@
 # Programmer : Rahul Chaudhary
 # Email : r.chaudhary@outlook.in
 
-# Introduction to Python
-# Programmer : Rahul Chaudhary
-# Email : r.chaudhary@outlook.in
-
 # Code : 25
 # Python Program to demonstrate Tkinter.
 

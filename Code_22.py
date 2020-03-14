@@ -4,6 +4,7 @@
 
 # Code : 22
 # Python Program to demonstrate Multi-Level Inheritance.
+
 class Person:
    def __init__(self,name,age):
       self.name=name
